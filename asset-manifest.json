@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactpassword_25/static/css/main.c7d8e2f6.css",
+    "main.js": "/reactpassword_25/static/js/main.2661e453.js",
+    "index.html": "/reactpassword_25/index.html",
+    "main.c7d8e2f6.css.map": "/reactpassword_25/static/css/main.c7d8e2f6.css.map",
+    "main.2661e453.js.map": "/reactpassword_25/static/js/main.2661e453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d8e2f6.css",
+    "static/js/main.2661e453.js"
+  ]
+}
